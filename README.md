@@ -10,7 +10,9 @@
 
 ### 最新
 
-* [CDH学习](http://blog.zfei.com.cn/articles/2019/08/23/1566543916515.html)
+* [hadoop学习—HBase](http://blog.zfei.com.cn/articles/2019/08/27/1566891876969.html)
+* [hadoop学习笔记<一>—Hello Word](http://blog.zfei.com.cn/articles/2019/08/27/1566891623506.html)
+* [CDH学习笔记](http://blog.zfei.com.cn/articles/2019/08/23/1566543916515.html)
 * [docker常用命令整理](http://blog.zfei.com.cn/articles/2019/08/01/1564627639954.html)
 * [mvn安装及配置](http://blog.zfei.com.cn/articles/2019/07/30/1564481835296.html)
 * [SpringBoot整合mongodb实战](http://blog.zfei.com.cn/articles/2019/07/24/1563950000373.html)
