@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](http://blog.zfei.com.cn/my-github-repos)
 * [hadoop学习—HBase](http://blog.zfei.com.cn/articles/2019/08/27/1566891876969.html)
 * [hadoop学习笔记<一>—Hello Word](http://blog.zfei.com.cn/articles/2019/08/27/1566891623506.html)
 * [CDH学习笔记](http://blog.zfei.com.cn/articles/2019/08/23/1566543916515.html)
