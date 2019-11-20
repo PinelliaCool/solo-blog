@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [尘封的记忆](http://blog.zfei.com.cn/articles/2019/11/19/1574127904094.html)
 * [微博开放平台准备](http://blog.zfei.com.cn/articles/2019/11/05/1572968288582.html)
 * [微信开放平台准备](http://blog.zfei.com.cn/articles/2019/11/05/1572965690033.html)
 * [我在 GitHub 上的开源项目](http://blog.zfei.com.cn/my-github-repos)
